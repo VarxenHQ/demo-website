@@ -1,0 +1,27 @@
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: varxen-web
+  namespace: dev
+  labels:
+    app.kubernetes.io/name: varxen-web
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: varxen-web
+  minReplicas: $MIN_REPLICAS_VALUE
+  maxReplicas: $MAX_REPLICAS_VALUE
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: $AVG_CPU_VALUE
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type: Utilization
+          averageUtilization: $AVG_RAM_VALUE

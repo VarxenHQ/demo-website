@@ -1,0 +1,818 @@
+FIRST PART (10 initial iterations)
+
+
+[INFO 2023-04-05 15:59:00,760] Starting experiment
+[INFO 2023-04-05 15:59:00,947] Running init step (repo)
+[INFO 2023-04-05 15:59:02,372] Generating trials. Model fitting may take a few minutes
+[INFO 2023-04-05 15:59:02,405] Running trials [0]...
+[INFO 2023-04-05 15:59:02,412] Running configuration step (2-13-63-99-1651-514-627-298)
+[INFO 2023-04-05 15:59:02,414] Running deployment step (2-13-63-99-1651-514-627-298)
+[INFO 2023-04-05 15:59:03,441] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 15:59:03,442] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:03,764] Running post-deployment step (2-13-63-99-1651-514-627-298)
+[INFO 2023-04-05 15:59:04,450] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:05,957] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:06,469] Running benchmarking step (2-13-63-99-1651-514-627-298)
+[INFO 2023-04-05 15:59:08,214] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:11,590] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:16,657] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:24,251] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:35,644] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 15:59:52,731] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:00:18,362] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:00:56,807] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:01:54,474] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:03:20,972] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:04:06,895] Benchmarking step finished (2-13-63-99-1651-514-627-298)
+[INFO 2023-04-05 16:05:30,730] Retrieved COMPLETED trials: [0].
+[INFO 2023-04-05 16:05:30,731] Fetching data for trials: [0].
+[INFO 2023-04-05 16:05:30,937] Running trials [1]...
+[INFO 2023-04-05 16:05:30,943] Running configuration step (10-47-86-53-464-653-187-426)
+[INFO 2023-04-05 16:05:30,945] Running deployment step (10-47-86-53-464-653-187-426)
+[INFO 2023-04-05 16:05:31,975] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:05:31,975] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:32,986] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:33,154] Running post-deployment step (10-47-86-53-464-653-187-426)
+[INFO 2023-04-05 16:05:34,500] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:34,515] Running benchmarking step (10-47-86-53-464-653-187-426)
+[INFO 2023-04-05 16:05:36,767] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:40,153] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:45,223] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:05:52,818] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:06:04,209] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:06:21,300] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:06:46,937] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:07:25,390] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:08:23,057] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:09:49,556] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:10:34,842] Benchmarking step finished (10-47-86-53-464-653-187-426)
+[INFO 2023-04-05 16:11:59,314] Retrieved COMPLETED trials: [1].
+[INFO 2023-04-05 16:11:59,315] Fetching data for trials: [1].
+[INFO 2023-04-05 16:11:59,572] Running trials [2]...
+[INFO 2023-04-05 16:11:59,579] Running configuration step (8-26-52-79-902-856-895-336)
+[INFO 2023-04-05 16:11:59,580] Running deployment step (8-26-52-79-902-856-895-336)
+[INFO 2023-04-05 16:11:59,599] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:11:59,599] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:00,610] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:02,073] Running post-deployment step (8-26-52-79-902-856-895-336)
+[INFO 2023-04-05 16:12:02,115] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:03,803] Running benchmarking step (8-26-52-79-902-856-895-336)
+[INFO 2023-04-05 16:12:04,377] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:07,761] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:12,825] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:20,420] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:31,816] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:12:48,905] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:13:14,536] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:13:52,987] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:14:50,653] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:16:17,154] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:17:04,045] Benchmarking step finished (8-26-52-79-902-856-895-336)
+[INFO 2023-04-05 16:18:26,907] Retrieved COMPLETED trials: [2].
+[INFO 2023-04-05 16:18:26,908] Fetching data for trials: [2].
+[INFO 2023-04-05 16:18:27,167] Running trials [3]...
+[INFO 2023-04-05 16:18:27,175] Running configuration step (5-34-97-73-1200-336-371-201)
+[INFO 2023-04-05 16:18:27,178] Running deployment step (5-34-97-73-1200-336-371-201)
+[INFO 2023-04-05 16:18:27,194] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:18:27,194] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:28,202] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:29,711] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:30,069] Running post-deployment step (5-34-97-73-1200-336-371-201)
+[INFO 2023-04-05 16:18:30,795] Running benchmarking step (5-34-97-73-1200-336-371-201)
+[INFO 2023-04-05 16:18:31,965] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:35,342] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:40,407] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:48,007] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:18:59,404] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:19:16,492] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:19:42,125] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:20:20,573] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:21:18,240] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:22:44,743] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:23:31,091] Benchmarking step finished (5-34-97-73-1200-336-371-201)
+[INFO 2023-04-05 16:24:54,496] Retrieved COMPLETED trials: [3].
+[INFO 2023-04-05 16:24:54,496] Fetching data for trials: [3].
+[INFO 2023-04-05 16:24:54,773] Running trials [4]...
+[INFO 2023-04-05 16:24:54,781] Running configuration step (3-24-79-66-1560-554-1022-397)
+[INFO 2023-04-05 16:24:54,783] Running deployment step (3-24-79-66-1560-554-1022-397)
+[INFO 2023-04-05 16:24:54,799] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:24:54,799] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:24:55,805] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:24:56,935] Running post-deployment step (3-24-79-66-1560-554-1022-397)
+[INFO 2023-04-05 16:24:57,308] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:24:59,567] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:25:00,103] Running benchmarking step (3-24-79-66-1560-554-1022-397)
+[INFO 2023-04-05 16:25:02,948] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:25:08,012] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:25:15,611] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:25:27,004] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:25:44,097] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:26:09,730] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:26:48,179] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:27:45,847] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:29:12,348] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:30:00,345] Benchmarking step finished (3-24-79-66-1560-554-1022-397)
+[INFO 2023-04-05 16:31:22,101] Retrieved COMPLETED trials: [4].
+[INFO 2023-04-05 16:31:22,102] Fetching data for trials: [4].
+[INFO 2023-04-05 16:31:22,381] Running trials [5]...
+[INFO 2023-04-05 16:31:22,388] Running configuration step (6-36-70-86-933-779-469-128)
+[INFO 2023-04-05 16:31:22,389] Running deployment step (6-36-70-86-933-779-469-128)
+[INFO 2023-04-05 16:31:23,423] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:31:23,424] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:24,427] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:24,480] Running post-deployment step (6-36-70-86-933-779-469-128)
+[INFO 2023-04-05 16:31:25,640] Running benchmarking step (6-36-70-86-933-779-469-128)
+[INFO 2023-04-05 16:31:25,928] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:28,183] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:31,560] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:36,626] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:44,221] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:31:55,615] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:32:12,703] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:32:38,335] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:33:16,779] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:34:14,446] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:35:40,945] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:36:25,882] Benchmarking step finished (6-36-70-86-933-779-469-128)
+[INFO 2023-04-05 16:37:50,703] Retrieved COMPLETED trials: [5].
+[INFO 2023-04-05 16:37:50,703] Fetching data for trials: [5].
+[INFO 2023-04-05 16:37:50,994] Running trials [6]...
+[INFO 2023-04-05 16:37:51,002] Running configuration step (8-32-61-62-1788-901-536-165)
+[INFO 2023-04-05 16:37:51,003] Running deployment step (8-32-61-62-1788-901-536-165)
+[INFO 2023-04-05 16:37:51,023] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:37:51,023] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:37:52,036] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:37:52,860] Running post-deployment step (8-32-61-62-1788-901-536-165)
+[INFO 2023-04-05 16:37:53,551] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:37:55,813] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:37:59,180] Running benchmarking step (8-32-61-62-1788-901-536-165)
+[INFO 2023-04-05 16:37:59,193] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:38:04,259] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:38:11,857] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:38:23,250] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:38:40,338] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:39:05,968] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:39:44,414] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:40:42,087] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:42:08,593] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:42:59,350] Benchmarking step finished (8-32-61-62-1788-901-536-165)
+[INFO 2023-04-05 16:44:18,350] Retrieved COMPLETED trials: [6].
+[INFO 2023-04-05 16:44:18,350] Fetching data for trials: [6].
+[INFO 2023-04-05 16:44:18,644] Running trials [7]...
+[INFO 2023-04-05 16:44:18,651] Running configuration step (6-10-77-88-1343-700-798-256)
+[INFO 2023-04-05 16:44:18,652] Running deployment step (6-10-77-88-1343-700-798-256)
+[INFO 2023-04-05 16:44:19,680] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:44:19,680] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:20,684] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:20,795] Running post-deployment step (6-10-77-88-1343-700-798-256)
+[INFO 2023-04-05 16:44:21,651] Running benchmarking step (6-10-77-88-1343-700-798-256)
+[INFO 2023-04-05 16:44:22,191] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:24,446] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:27,821] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:32,894] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:40,492] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:44:51,886] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:45:08,978] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:45:34,610] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:46:13,057] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:47:10,725] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:48:37,224] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:49:21,989] Benchmarking step finished (6-10-77-88-1343-700-798-256)
+[INFO 2023-04-05 16:50:46,977] Retrieved COMPLETED trials: [7].
+[INFO 2023-04-05 16:50:46,977] Fetching data for trials: [7].
+[INFO 2023-04-05 16:50:47,369] Running trials [8]...
+[INFO 2023-04-05 16:50:47,376] Running configuration step (4-49-72-58-716-469-244-457)
+[INFO 2023-04-05 16:50:47,377] Running deployment step (4-49-72-58-716-469-244-457)
+[INFO 2023-04-05 16:50:47,394] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 16:50:47,394] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:50:48,396] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:50:49,275] Running post-deployment step (4-49-72-58-716-469-244-457)
+[INFO 2023-04-05 16:50:49,908] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:50:51,661] Running benchmarking step (4-49-72-58-716-469-244-457)
+[INFO 2023-04-05 16:50:52,167] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:50:55,548] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:51:00,613] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:51:08,209] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:51:19,602] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:51:36,694] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:52:02,324] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:52:40,771] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 16:53:38,439] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 16:55:04,939] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 16:55:51,910] Benchmarking step finished (4-49-72-58-716-469-244-457)
+[INFO 2023-04-05 16:57:14,692] Retrieved COMPLETED trials: [8].
+[INFO 2023-04-05 16:57:14,692] Fetching data for trials: [8].
+[INFO 2023-04-05 16:57:15,021] Running trials [9]...
+[INFO 2023-04-05 16:57:15,028] Running configuration step (5-18-54-51-1133-391-672-289)
+[INFO 2023-04-05 16:57:15,030] Running deployment step (5-18-54-51-1133-391-672-289)
+[INFO 2023-04-05 16:57:16,044] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:17,046] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:17,099] Running post-deployment step (5-18-54-51-1133-391-672-289)
+[INFO 2023-04-05 16:57:17,800] Running benchmarking step (5-18-54-51-1133-391-672-289)
+[INFO 2023-04-05 16:57:18,551] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:20,803] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:24,181] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:29,245] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:36,846] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 16:57:48,238] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 16:58:05,330] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 16:58:30,962] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 16:59:09,406] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:00:07,076] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:01:33,579] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:02:18,160] Benchmarking step finished (5-18-54-51-1133-391-672-289)
+[INFO 2023-04-05 17:03:43,332] Retrieved COMPLETED trials: [9].
+[INFO 2023-04-05 17:03:43,332] Fetching data for trials: [9].
+
+
+SECOND PART (5 additional iterations)
+
+
+[INFO 2023-04-05 17:19:50,990] Starting experiment
+[INFO 2023-04-05 17:19:51,281] Running init step (repo)
+[INFO 2023-04-05 17:19:53,206] Populating status data from previously run trials
+[INFO 2023-04-05 17:19:53,207] Generating trials. Model fitting may take a few minutes
+[INFO 2023-04-05 17:19:54,519] Running trials [10]...
+[INFO 2023-04-05 17:19:54,527] Running configuration step (5-10-74-91-1420-658-761-265)
+[INFO 2023-04-05 17:19:54,529] Running deployment step (5-10-74-91-1420-658-761-265)
+[INFO 2023-04-05 17:19:55,629] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 17:19:55,630] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 17:19:55,902] Running post-deployment step (5-10-74-91-1420-658-761-265)
+[INFO 2023-04-05 17:19:56,638] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:19:56,658] Running benchmarking step (5-10-74-91-1420-658-761-265)
+[INFO 2023-04-05 17:19:58,147] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:00,402] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:03,778] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:08,842] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:16,437] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:27,830] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 17:20:44,917] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 17:21:10,549] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 17:21:48,995] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:22:46,667] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:24:13,168] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:24:57,060] Benchmarking step finished (5-10-74-91-1420-658-761-265)
+[INFO 2023-04-05 17:26:22,918] Retrieved COMPLETED trials: [10].
+[INFO 2023-04-05 17:26:22,919] Fetching data for trials: [10].
+[INFO 2023-04-05 17:26:38,576] Created a new report at reports/report-2023-04-05 17:26:38.574416.html
+[INFO 2023-04-05 17:26:39,852] Running trials [11]...
+[INFO 2023-04-05 17:26:39,860] Running configuration step (7-10-79-85-1366-735-880-258)
+[INFO 2023-04-05 17:26:39,861] Running deployment step (7-10-79-85-1366-735-880-258)
+[INFO 2023-04-05 17:26:40,964] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 17:26:40,965] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 17:26:41,923] Running post-deployment step (7-10-79-85-1366-735-880-258)
+[INFO 2023-04-05 17:26:41,969] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:26:42,917] Running benchmarking step (7-10-79-85-1366-735-880-258)
+[INFO 2023-04-05 17:26:43,481] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 17:26:45,737] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 17:26:49,123] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:26:54,197] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 17:27:01,792] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 17:27:13,184] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 17:27:30,272] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 17:27:55,903] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 17:28:34,358] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:29:32,029] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:30:58,530] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:31:43,233] Benchmarking step finished (7-10-79-85-1366-735-880-258)
+[INFO 2023-04-05 17:33:08,283] Retrieved COMPLETED trials: [11].
+[INFO 2023-04-05 17:33:08,283] Fetching data for trials: [11].
+[INFO 2023-04-05 17:33:24,021] Created a new report at reports/report-2023-04-05 17:33:24.017785.html
+[INFO 2023-04-05 17:33:25,247] Running trials [12]...
+[INFO 2023-04-05 17:33:25,254] Running configuration step (9-32-67-70-1833-681-221-195)
+[INFO 2023-04-05 17:33:25,255] Running deployment step (9-32-67-70-1833-681-221-195)
+[INFO 2023-04-05 17:33:26,412] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 17:33:26,412] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:27,180] Running post-deployment step (9-32-67-70-1833-681-221-195)
+[INFO 2023-04-05 17:33:27,419] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:28,928] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:29,631] Running benchmarking step (9-32-67-70-1833-681-221-195)
+[INFO 2023-04-05 17:33:31,179] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:34,560] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:39,629] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:47,229] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 17:33:58,624] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 17:34:15,713] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 17:34:41,345] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 17:35:19,794] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:36:17,460] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:37:43,962] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:38:29,889] Benchmarking step finished (9-32-67-70-1833-681-221-195)
+[INFO 2023-04-05 17:39:53,714] Retrieved COMPLETED trials: [12].
+[INFO 2023-04-05 17:39:53,715] Fetching data for trials: [12].
+[INFO 2023-04-05 17:40:09,298] Created a new report at reports/report-2023-04-05 17:40:09.295135.html
+[INFO 2023-04-05 17:40:10,568] Running trials [13]...
+[INFO 2023-04-05 17:40:10,576] Running configuration step (3-33-56-70-853-281-832-276)
+[INFO 2023-04-05 17:40:10,579] Running deployment step (3-33-56-70-853-281-832-276)
+[INFO 2023-04-05 17:40:10,699] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 17:40:10,699] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:11,709] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:12,723] Running post-deployment step (3-33-56-70-853-281-832-276)
+[INFO 2023-04-05 17:40:13,218] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:14,881] Running benchmarking step (3-33-56-70-853-281-832-276)
+[INFO 2023-04-05 17:40:15,479] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:18,860] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:23,924] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:31,521] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 17:40:42,914] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 17:41:00,002] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 17:41:25,633] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 17:42:04,080] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:43:01,747] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:44:28,251] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:45:15,158] Benchmarking step finished (3-33-56-70-853-281-832-276)
+[INFO 2023-04-05 17:46:38,006] Retrieved COMPLETED trials: [13].
+[INFO 2023-04-05 17:46:38,006] Fetching data for trials: [13].
+[INFO 2023-04-05 17:46:53,689] Created a new report at reports/report-2023-04-05 17:46:53.680441.html
+[INFO 2023-04-05 17:46:54,923] Running trials [14]...
+[INFO 2023-04-05 17:46:54,931] Running configuration step (5-48-64-54-909-713-898-154)
+[INFO 2023-04-05 17:46:54,933] Running deployment step (5-48-64-54-909-713-898-154)
+[INFO 2023-04-05 17:46:55,954] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 17:46:56,957] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:46:57,030] Running post-deployment step (5-48-64-54-909-713-898-154)
+[INFO 2023-04-05 17:46:58,370] Running benchmarking step (5-48-64-54-909-713-898-154)
+[INFO 2023-04-05 17:46:58,468] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:00,720] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:04,106] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:09,170] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:16,773] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:28,166] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 17:47:45,257] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 17:48:10,887] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 17:48:49,332] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 17:49:46,998] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 17:51:13,502] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 17:51:58,713] Benchmarking step finished (5-48-64-54-909-713-898-154)
+[INFO 2023-04-05 17:53:23,254] Retrieved COMPLETED trials: [14].
+[INFO 2023-04-05 17:53:23,255] Fetching data for trials: [14].
+[INFO 2023-04-05 17:53:39,250] Created a new report at reports/report-2023-04-05 17:53:39.243311.html
+[INFO 2023-04-05 17:53:54,939] Created a new report at reports/report-2023-04-05 17:53:54.935246.html
+
+
+THIRD PART (20 additional iterations)
+
+
+[INFO 2023-04-05 18:05:18,819] Starting experiment
+[INFO 2023-04-05 18:05:19,159] Running init step (repo)
+[INFO 2023-04-05 18:05:20,887] Populating status data from previously run trials
+[INFO 2023-04-05 18:05:20,887] Generating trials. Model fitting may take a few minutes
+[INFO 2023-04-05 18:05:22,301] Running trials [15]...
+[INFO 2023-04-05 18:05:22,308] Running configuration step (7-11-78-85-1359-743-806-268)
+[INFO 2023-04-05 18:05:22,310] Running deployment step (7-11-78-85-1359-743-806-268)
+[INFO 2023-04-05 18:05:23,453] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:05:23,454] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:23,850] Running post-deployment step (7-11-78-85-1359-743-806-268)
+[INFO 2023-04-05 18:05:24,462] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:24,741] Running benchmarking step (7-11-78-85-1359-743-806-268)
+[INFO 2023-04-05 18:05:25,970] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:28,226] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:31,602] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:36,667] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:44,263] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:05:55,657] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:06:12,745] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:06:38,378] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:07:16,825] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:08:14,491] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:09:40,990] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:10:25,065] Benchmarking step finished (7-11-78-85-1359-743-806-268)
+[INFO 2023-04-05 18:11:50,741] Retrieved COMPLETED trials: [15].
+[INFO 2023-04-05 18:11:50,742] Fetching data for trials: [15].
+[INFO 2023-04-05 18:12:06,946] Created a new report at reports/report-2023-04-05 18:12:06.942574.html
+[INFO 2023-04-05 18:12:09,499] Running trials [16]...
+[INFO 2023-04-05 18:12:09,507] Running configuration step (6-10-78-87-1388-687-926-244)
+[INFO 2023-04-05 18:12:09,509] Running deployment step (6-10-78-87-1388-687-926-244)
+[INFO 2023-04-05 18:12:10,674] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:12:10,674] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:11,675] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:11,865] Running post-deployment step (6-10-78-87-1388-687-926-244)
+[INFO 2023-04-05 18:12:13,184] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:14,412] Running benchmarking step (6-10-78-87-1388-687-926-244)
+[INFO 2023-04-05 18:12:15,439] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:18,816] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:23,880] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:31,476] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:42,872] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:12:59,962] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:13:25,592] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:14:04,037] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:15:01,705] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:16:28,205] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:17:14,761] Benchmarking step finished (6-10-78-87-1388-687-926-244)
+[INFO 2023-04-05 18:18:37,958] Retrieved COMPLETED trials: [16].
+[INFO 2023-04-05 18:18:37,958] Fetching data for trials: [16].
+[INFO 2023-04-05 18:18:53,832] Created a new report at reports/report-2023-04-05 18:18:53.827819.html
+[INFO 2023-04-05 18:18:55,011] Running trials [17]...
+[INFO 2023-04-05 18:18:55,018] Running configuration step (8-12-95-78-1542-826-906-171)
+[INFO 2023-04-05 18:18:55,020] Running deployment step (8-12-95-78-1542-826-906-171)
+[INFO 2023-04-05 18:18:56,156] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:18:56,157] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:18:57,162] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:18:57,349] Running post-deployment step (8-12-95-78-1542-826-906-171)
+[INFO 2023-04-05 18:18:58,671] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:18:59,797] Running benchmarking step (8-12-95-78-1542-826-906-171)
+[INFO 2023-04-05 18:19:00,923] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:19:04,303] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:19:09,367] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:19:16,965] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:19:28,358] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:19:45,446] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:20:11,078] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:20:49,524] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:21:47,193] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:23:13,692] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:24:00,124] Benchmarking step finished (8-12-95-78-1542-826-906-171)
+[INFO 2023-04-05 18:25:23,440] Retrieved COMPLETED trials: [17].
+[INFO 2023-04-05 18:25:23,441] Fetching data for trials: [17].
+[INFO 2023-04-05 18:25:39,423] Created a new report at reports/report-2023-04-05 18:25:39.420748.html
+[INFO 2023-04-05 18:25:41,050] Running trials [18]...
+[INFO 2023-04-05 18:25:41,057] Running configuration step (7-10-87-84-1433-745-934-195)
+[INFO 2023-04-05 18:25:41,058] Running deployment step (7-10-87-84-1433-745-934-195)
+[INFO 2023-04-05 18:25:41,174] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:25:41,174] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:25:42,179] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:25:43,277] Running post-deployment step (7-10-87-84-1433-745-934-195)
+[INFO 2023-04-05 18:25:43,689] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:25:44,390] Running benchmarking step (7-10-87-84-1433-745-934-195)
+[INFO 2023-04-05 18:25:45,948] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:25:49,328] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:25:54,396] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:26:01,994] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:26:13,387] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:26:30,477] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:26:56,109] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:27:34,554] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:28:32,221] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:29:58,720] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:30:44,690] Benchmarking step finished (7-10-87-84-1433-745-934-195)
+[INFO 2023-04-05 18:32:08,470] Retrieved COMPLETED trials: [18].
+[INFO 2023-04-05 18:32:08,470] Fetching data for trials: [18].
+[INFO 2023-04-05 18:32:24,519] Created a new report at reports/report-2023-04-05 18:32:24.516068.html
+[INFO 2023-04-05 18:32:25,807] Running trials [19]...
+[INFO 2023-04-05 18:32:25,812] Running configuration step (7-10-87-82-1514-762-960-212)
+[INFO 2023-04-05 18:32:25,813] Running deployment step (7-10-87-82-1514-762-960-212)
+[INFO 2023-04-05 18:32:26,966] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:32:26,966] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:27,487] Running post-deployment step (7-10-87-82-1514-762-960-212)
+[INFO 2023-04-05 18:32:27,978] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:29,397] Running benchmarking step (7-10-87-82-1514-762-960-212)
+[INFO 2023-04-05 18:32:29,493] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:31,754] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:35,138] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:40,205] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:47,801] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:32:59,198] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:33:16,292] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:33:41,932] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:34:20,376] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:35:18,046] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:36:44,550] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:37:29,712] Benchmarking step finished (7-10-87-82-1514-762-960-212)
+[INFO 2023-04-05 18:38:54,299] Retrieved COMPLETED trials: [19].
+[INFO 2023-04-05 18:38:54,299] Fetching data for trials: [19].
+[INFO 2023-04-05 18:39:10,535] Created a new report at reports/report-2023-04-05 18:39:10.532268.html
+[INFO 2023-04-05 18:39:12,141] Running trials [20]...
+[INFO 2023-04-05 18:39:12,148] Running configuration step (6-10-91-84-1337-798-1009-235)
+[INFO 2023-04-05 18:39:12,149] Running deployment step (6-10-91-84-1337-798-1009-235)
+[INFO 2023-04-05 18:39:12,285] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:39:12,285] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:13,296] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:14,081] Running post-deployment step (6-10-91-84-1337-798-1009-235)
+[INFO 2023-04-05 18:39:14,810] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:15,244] Running benchmarking step (6-10-91-84-1337-798-1009-235)
+[INFO 2023-04-05 18:39:17,075] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:20,461] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:25,526] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:33,123] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:39:44,519] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:40:01,607] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:40:27,245] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:41:05,698] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:42:03,364] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:43:29,863] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:44:15,548] Benchmarking step finished (6-10-91-84-1337-798-1009-235)
+[INFO 2023-04-05 18:45:39,617] Retrieved COMPLETED trials: [20].
+[INFO 2023-04-05 18:45:39,617] Fetching data for trials: [20].
+[INFO 2023-04-05 18:45:55,962] Created a new report at reports/report-2023-04-05 18:45:55.960052.html
+[INFO 2023-04-05 18:45:57,163] Running trials [21]...
+[INFO 2023-04-05 18:45:57,169] Running configuration step (2-17-63-81-686-598-349-297)
+[INFO 2023-04-05 18:45:57,170] Running deployment step (2-17-63-81-686-598-349-297)
+[INFO 2023-04-05 18:45:58,317] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:45:58,317] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:45:59,322] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:45:59,396] Running post-deployment step (2-17-63-81-686-598-349-297)
+[INFO 2023-04-05 18:46:00,831] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:01,756] Running benchmarking step (2-17-63-81-686-598-349-297)
+[INFO 2023-04-05 18:46:03,088] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:06,469] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:11,537] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:19,132] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:30,528] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:46:47,619] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:47:13,251] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:47:51,698] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:48:49,366] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:50:15,866] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:51:02,093] Benchmarking step finished (2-17-63-81-686-598-349-297)
+[INFO 2023-04-05 18:52:25,615] Retrieved COMPLETED trials: [21].
+[INFO 2023-04-05 18:52:25,616] Fetching data for trials: [21].
+[INFO 2023-04-05 18:52:42,196] Created a new report at reports/report-2023-04-05 18:52:42.193874.html
+[INFO 2023-04-05 18:52:43,429] Running trials [22]...
+[INFO 2023-04-05 18:52:43,435] Running configuration step (6-10-90-83-1314-673-995-227)
+[INFO 2023-04-05 18:52:43,436] Running deployment step (6-10-90-83-1314-673-995-227)
+[INFO 2023-04-05 18:52:43,553] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:52:43,554] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:52:44,560] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:52:45,259] Running post-deployment step (6-10-90-83-1314-673-995-227)
+[INFO 2023-04-05 18:52:46,068] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:52:48,326] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:52:48,549] Running benchmarking step (6-10-90-83-1314-673-995-227)
+[INFO 2023-04-05 18:52:51,704] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:52:56,773] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:53:04,368] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 18:53:15,762] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 18:53:32,853] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 18:53:58,487] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 18:54:36,932] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 18:55:34,600] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 18:57:01,098] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 18:57:48,892] Benchmarking step finished (6-10-90-83-1314-673-995-227)
+[INFO 2023-04-05 18:59:10,851] Retrieved COMPLETED trials: [22].
+[INFO 2023-04-05 18:59:10,851] Fetching data for trials: [22].
+[INFO 2023-04-05 18:59:27,813] Created a new report at reports/report-2023-04-05 18:59:27.804331.html
+[INFO 2023-04-05 18:59:29,061] Running trials [23]...
+[INFO 2023-04-05 18:59:29,068] Running configuration step (10-24-97-84-614-729-438-440)
+[INFO 2023-04-05 18:59:29,069] Running deployment step (10-24-97-84-614-729-438-440)
+[INFO 2023-04-05 18:59:30,282] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 18:59:30,283] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:31,222] Running post-deployment step (10-24-97-84-614-729-438-440)
+[INFO 2023-04-05 18:59:31,284] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:32,527] Running benchmarking step (10-24-97-84-614-729-438-440)
+[INFO 2023-04-05 18:59:32,786] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:35,037] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:38,415] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:43,479] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 18:59:51,075] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:00:02,467] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:00:19,554] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:00:45,184] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:01:23,629] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:02:21,295] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:03:47,794] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:04:32,810] Benchmarking step finished (10-24-97-84-614-729-438-440)
+[INFO 2023-04-05 19:05:57,547] Retrieved COMPLETED trials: [23].
+[INFO 2023-04-05 19:05:57,548] Fetching data for trials: [23].
+[INFO 2023-04-05 19:06:14,255] Created a new report at reports/report-2023-04-05 19:06:14.251667.html
+[INFO 2023-04-05 19:06:15,447] Running trials [24]...
+[INFO 2023-04-05 19:06:15,454] Running configuration step (3-40-75-52-1784-599-617-134)
+[INFO 2023-04-05 19:06:15,455] Running deployment step (3-40-75-52-1784-599-617-134)
+[INFO 2023-04-05 19:06:15,588] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:06:15,588] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:16,597] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:18,106] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:18,265] Running post-deployment step (3-40-75-52-1784-599-617-134)
+[INFO 2023-04-05 19:06:19,150] Running benchmarking step (3-40-75-52-1784-599-617-134)
+[INFO 2023-04-05 19:06:20,363] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:23,742] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:28,806] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:36,406] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:06:47,799] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:07:04,888] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:07:30,521] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:08:08,966] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:09:06,633] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:10:33,134] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:11:19,568] Benchmarking step finished (3-40-75-52-1784-599-617-134)
+[INFO 2023-04-05 19:12:42,892] Retrieved COMPLETED trials: [24].
+[INFO 2023-04-05 19:12:42,893] Fetching data for trials: [24].
+[INFO 2023-04-05 19:12:59,649] Created a new report at reports/report-2023-04-05 19:12:59.645105.html
+[INFO 2023-04-05 19:13:01,663] Running trials [25]...
+[INFO 2023-04-05 19:13:01,667] Running configuration step (6-10-85-83-1251-768-947-181)
+[INFO 2023-04-05 19:13:01,668] Running deployment step (6-10-85-83-1251-768-947-181)
+[INFO 2023-04-05 19:13:01,797] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:13:01,797] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:02,811] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:03,982] Running post-deployment step (6-10-85-83-1251-768-947-181)
+[INFO 2023-04-05 19:13:04,328] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:04,822] Running benchmarking step (6-10-85-83-1251-768-947-181)
+[INFO 2023-04-05 19:13:06,586] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:09,965] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:15,029] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:22,623] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:34,017] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:13:51,105] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:14:16,736] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:14:55,181] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:15:52,852] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:17:19,352] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:18:05,128] Benchmarking step finished (6-10-85-83-1251-768-947-181)
+[INFO 2023-04-05 19:19:29,105] Retrieved COMPLETED trials: [25].
+[INFO 2023-04-05 19:19:29,105] Fetching data for trials: [25].
+[INFO 2023-04-05 19:19:47,145] Created a new report at reports/report-2023-04-05 19:19:47.142190.html
+[INFO 2023-04-05 19:19:48,568] Running trials [26]...
+[INFO 2023-04-05 19:19:48,576] Running configuration step (8-10-85-81-1274-723-1016-206)
+[INFO 2023-04-05 19:19:48,577] Running deployment step (8-10-85-81-1274-723-1016-206)
+[INFO 2023-04-05 19:19:48,716] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:19:48,716] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:19:49,742] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:19:50,830] Running post-deployment step (8-10-85-81-1274-723-1016-206)
+[INFO 2023-04-05 19:19:51,253] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:19:51,796] Running benchmarking step (8-10-85-81-1274-723-1016-206)
+[INFO 2023-04-05 19:19:53,512] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:19:56,913] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:20:01,977] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:20:09,572] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:20:20,964] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:20:38,052] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:21:03,683] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:21:42,128] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:22:39,795] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:24:06,294] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:24:52,204] Benchmarking step finished (8-10-85-81-1274-723-1016-206)
+[INFO 2023-04-05 19:26:16,047] Retrieved COMPLETED trials: [26].
+[INFO 2023-04-05 19:26:16,047] Fetching data for trials: [26].
+[INFO 2023-04-05 19:26:33,051] Created a new report at reports/report-2023-04-05 19:26:33.048887.html
+[INFO 2023-04-05 19:26:34,335] Running trials [27]...
+[INFO 2023-04-05 19:26:34,341] Running configuration step (1-10-70-56-416-599-411-305)
+[INFO 2023-04-05 19:26:34,342] Running deployment step (1-10-70-56-416-599-411-305)
+[INFO 2023-04-05 19:26:35,536] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:26:35,536] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:36,485] Running post-deployment step (1-10-70-56-416-599-411-305)
+[INFO 2023-04-05 19:26:36,537] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:38,044] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:38,208] Running benchmarking step (1-10-70-56-416-599-411-305)
+[INFO 2023-04-05 19:26:40,306] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:43,683] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:48,752] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:26:56,347] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:27:07,743] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:27:24,833] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:27:50,464] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:28:28,912] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:29:26,579] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:30:53,081] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:31:38,663] Benchmarking step finished (1-10-70-56-416-599-411-305)
+[INFO 2023-04-05 19:33:02,839] Retrieved COMPLETED trials: [27].
+[INFO 2023-04-05 19:33:02,840] Fetching data for trials: [27].
+[INFO 2023-04-05 19:33:19,926] Created a new report at reports/report-2023-04-05 19:33:19.922250.html
+[INFO 2023-04-05 19:33:21,381] Running trials [28]...
+[INFO 2023-04-05 19:33:21,385] Running configuration step (6-10-88-83-1355-778-925-227)
+[INFO 2023-04-05 19:33:21,386] Running deployment step (6-10-88-83-1355-778-925-227)
+[INFO 2023-04-05 19:33:21,589] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:33:21,590] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:22,594] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:23,798] Running post-deployment step (6-10-88-83-1355-778-925-227)
+[INFO 2023-04-05 19:33:24,108] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:24,616] Running benchmarking step (6-10-88-83-1355-778-925-227)
+[INFO 2023-04-05 19:33:26,364] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:29,750] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:34,823] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:42,418] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:33:53,810] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:34:10,899] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:34:36,533] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:35:14,981] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:36:12,649] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:37:39,150] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:38:24,922] Benchmarking step finished (6-10-88-83-1355-778-925-227)
+[INFO 2023-04-05 19:39:48,908] Retrieved COMPLETED trials: [28].
+[INFO 2023-04-05 19:39:48,908] Fetching data for trials: [28].
+[INFO 2023-04-05 19:40:06,116] Created a new report at reports/report-2023-04-05 19:40:06.111720.html
+[INFO 2023-04-05 19:40:07,566] Running trials [29]...
+[INFO 2023-04-05 19:40:07,572] Running configuration step (7-10-86-86-1314-753-969-229)
+[INFO 2023-04-05 19:40:07,573] Running deployment step (7-10-86-86-1314-753-969-229)
+[INFO 2023-04-05 19:40:08,836] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:40:08,836] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:09,844] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:10,116] Running post-deployment step (7-10-86-86-1314-753-969-229)
+[INFO 2023-04-05 19:40:11,358] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:11,869] Running benchmarking step (7-10-86-86-1314-753-969-229)
+[INFO 2023-04-05 19:40:13,615] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:16,997] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:22,062] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:29,663] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:41,059] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:40:58,152] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:41:23,782] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:42:02,236] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:42:59,904] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:44:26,404] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:45:12,218] Benchmarking step finished (7-10-86-86-1314-753-969-229)
+[INFO 2023-04-05 19:46:36,161] Retrieved COMPLETED trials: [29].
+[INFO 2023-04-05 19:46:36,162] Fetching data for trials: [29].
+[INFO 2023-04-05 19:46:53,456] Created a new report at reports/report-2023-04-05 19:46:53.453110.html
+[INFO 2023-04-05 19:46:55,162] Running trials [30]...
+[INFO 2023-04-05 19:46:55,170] Running configuration step (6-10-86-84-1354-730-950-219)
+[INFO 2023-04-05 19:46:55,170] Running deployment step (6-10-86-84-1354-730-950-219)
+[INFO 2023-04-05 19:46:56,447] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:46:56,447] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:46:57,201] Running post-deployment step (6-10-86-84-1354-730-950-219)
+[INFO 2023-04-05 19:46:57,460] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:46:58,054] Running benchmarking step (6-10-86-84-1354-730-950-219)
+[INFO 2023-04-05 19:46:58,970] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:01,224] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:04,604] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:09,678] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:17,273] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:28,672] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:47:45,761] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:48:11,391] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:48:49,836] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:49:47,504] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:51:14,003] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:51:58,446] Benchmarking step finished (6-10-86-84-1354-730-950-219)
+[INFO 2023-04-05 19:53:23,759] Retrieved COMPLETED trials: [30].
+[INFO 2023-04-05 19:53:23,759] Fetching data for trials: [30].
+[INFO 2023-04-05 19:53:41,103] Created a new report at reports/report-2023-04-05 19:53:41.100434.html
+[INFO 2023-04-05 19:53:44,024] Running trials [31]...
+[INFO 2023-04-05 19:53:44,031] Running configuration step (7-10-95-82-1404-800-943-198)
+[INFO 2023-04-05 19:53:44,032] Running deployment step (7-10-95-82-1404-800-943-198)
+[INFO 2023-04-05 19:53:44,286] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 19:53:44,287] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 19:53:45,296] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:53:46,284] Running post-deployment step (7-10-95-82-1404-800-943-198)
+[INFO 2023-04-05 19:53:46,811] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 19:53:47,141] Running benchmarking step (7-10-95-82-1404-800-943-198)
+[INFO 2023-04-05 19:53:49,076] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 19:53:52,460] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 19:53:57,525] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 19:54:05,124] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 19:54:16,518] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 19:54:33,606] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 19:54:59,238] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 19:55:37,682] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 19:56:35,349] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 19:58:01,848] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 19:58:47,487] Benchmarking step finished (7-10-95-82-1404-800-943-198)
+[INFO 2023-04-05 20:00:11,606] Retrieved COMPLETED trials: [31].
+[INFO 2023-04-05 20:00:11,607] Fetching data for trials: [31].
+[INFO 2023-04-05 20:00:29,135] Created a new report at reports/report-2023-04-05 20:00:29.132057.html
+[INFO 2023-04-05 20:00:30,611] Running trials [32]...
+[INFO 2023-04-05 20:00:30,617] Running configuration step (4-10-66-65-666-477-485-284)
+[INFO 2023-04-05 20:00:30,618] Running deployment step (4-10-66-65-666-477-485-284)
+[INFO 2023-04-05 20:00:31,855] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 20:00:31,855] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:32,709] Running post-deployment step (4-10-66-65-666-477-485-284)
+[INFO 2023-04-05 20:00:32,866] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:34,379] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:34,848] Running benchmarking step (4-10-66-65-666-477-485-284)
+[INFO 2023-04-05 20:00:36,642] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:40,018] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:45,090] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 20:00:52,686] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 20:01:04,081] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 20:01:21,168] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 20:01:46,799] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 20:02:25,246] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 20:03:22,912] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 20:04:49,412] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 20:05:35,348] Benchmarking step finished (4-10-66-65-666-477-485-284)
+[INFO 2023-04-05 20:06:59,170] Retrieved COMPLETED trials: [32].
+[INFO 2023-04-05 20:06:59,170] Fetching data for trials: [32].
+[INFO 2023-04-05 20:07:16,803] Created a new report at reports/report-2023-04-05 20:07:16.799104.html
+[INFO 2023-04-05 20:07:18,458] Running trials [33]...
+[INFO 2023-04-05 20:07:18,463] Running configuration step (6-10-85-85-1392-745-971-220)
+[INFO 2023-04-05 20:07:18,464] Running deployment step (6-10-85-85-1392-745-971-220)
+[INFO 2023-04-05 20:07:18,741] Generated all trials that can be generated currently. Max parallelism currently reached.
+[INFO 2023-04-05 20:07:18,741] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:19,755] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:20,971] Running post-deployment step (6-10-85-85-1392-745-971-220)
+[INFO 2023-04-05 20:07:21,271] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:22,218] Running benchmarking step (6-10-85-85-1392-745-971-220)
+[INFO 2023-04-05 20:07:23,537] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:26,915] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:31,982] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:39,579] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 20:07:50,972] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 20:08:08,059] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 20:08:33,689] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 20:09:12,135] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 20:10:09,802] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 20:11:36,301] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 20:12:22,568] Benchmarking step finished (6-10-85-85-1392-745-971-220)
+[INFO 2023-04-05 20:13:46,052] Retrieved COMPLETED trials: [33].
+[INFO 2023-04-05 20:13:46,052] Fetching data for trials: [33].
+[INFO 2023-04-05 20:14:03,781] Created a new report at reports/report-2023-04-05 20:14:03.777574.html
+[INFO 2023-04-05 20:14:05,239] Running trials [34]...
+[INFO 2023-04-05 20:14:05,246] Running configuration step (2-25-87-99-1253-531-291-358)
+[INFO 2023-04-05 20:14:05,247] Running deployment step (2-25-87-99-1253-531-291-358)
+[INFO 2023-04-05 20:14:06,272] Waiting for completed trials (for 1 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:07,152] Running post-deployment step (2-25-87-99-1253-531-291-358)
+[INFO 2023-04-05 20:14:07,283] Waiting for completed trials (for 1.5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:08,795] Waiting for completed trials (for 2 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:11,057] Waiting for completed trials (for 3 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:13,087] Running benchmarking step (2-25-87-99-1253-531-291-358)
+[INFO 2023-04-05 20:14:14,443] Waiting for completed trials (for 5 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:19,517] Waiting for completed trials (for 7 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:27,119] Waiting for completed trials (for 11 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:38,515] Waiting for completed trials (for 17 sec, currently running trials: 1).
+[INFO 2023-04-05 20:14:55,613] Waiting for completed trials (for 25 sec, currently running trials: 1).
+[INFO 2023-04-05 20:15:21,244] Waiting for completed trials (for 38 sec, currently running trials: 1).
+[INFO 2023-04-05 20:15:59,689] Waiting for completed trials (for 57 sec, currently running trials: 1).
+[INFO 2023-04-05 20:16:57,355] Waiting for completed trials (for 86 sec, currently running trials: 1).
+[INFO 2023-04-05 20:18:23,855] Waiting for completed trials (for 129 sec, currently running trials: 1).
+[INFO 2023-04-05 20:19:13,591] Benchmarking step finished (2-25-87-99-1253-531-291-358)
+[INFO 2023-04-05 20:20:33,603] Retrieved COMPLETED trials: [34].
+[INFO 2023-04-05 20:20:33,604] Fetching data for trials: [34].
+[INFO 2023-04-05 20:20:51,491] Created a new report at reports/report-2023-04-05 20:20:51.487317.html
+[INFO 2023-04-05 20:21:09,263] Created a new report at reports/report-2023-04-05 20:21:09.259238.html

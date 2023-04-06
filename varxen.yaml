@@ -1,0 +1,141 @@
+version: 0.7.0
+type: experiment
+name: "Resource and autoscaler params for the web component"
+description: >
+  An experiment to determine an adequate amount of RAM and CPU for request and
+  pod limits, as well as an appropriate configuration for the autoscaler.
+
+env:
+  - name: NAMESPACE
+    value: dev
+  - name: HPA
+    value: varxen-web-hpa
+  - name: DEPLOYMENT
+    value: varxen-web
+  - name: KUBECONFIG
+    value: ${KUBECONFIG}
+    sensitive: true
+
+setup:
+  max-parallelism: 1
+  seed: 5432
+  experiment:
+    init: .varxen/scripts/init.sh
+    shutdown: .varxen/scripts/shutdown.sh
+  trials:
+    deployment: .varxen/scripts/deployment.sh
+    post-deployment: .varxen/scripts/post-deployment.sh
+    benchmarking:
+      testing:
+        host: https://www.varxen.com
+        duration: 300
+        users: 100
+        rate: 5
+        tests:
+          - .varxen/load.py
+
+knobs:
+  - name: min_replicas
+    description: >
+      Minimum number of pods to run.
+    type: range
+    bounds:
+      min: 1
+      max: 10
+    renderers:
+      - type: replace
+        pattern: hpa.yml
+        regex: "\\$MIN_REPLICAS_VALUE"
+        directory: .varxen
+
+  - name: max_replicas
+    description: >
+      Maximum number of pods to run.
+    type: range
+    bounds:
+      min: 10
+      max: 50
+    renderers:
+      - type: replace
+        pattern: hpa.yml
+        regex: "\\$MAX_REPLICAS_VALUE"
+        directory: .varxen
+
+  - name: avg_cpu_utilization
+    description: >
+      Average CPU utilization percent for the k8s autoscaler.
+    type: range
+    bounds:
+      min: 50
+      max: 99
+    renderers:
+      - type: replace
+        pattern: hpa.yml
+        regex: "\\$AVG_CPU_VALUE"
+        directory: .varxen
+
+  - name: avg_ram_utilization
+    description: >
+      Average RAM utilization percent for the k8s autoscaler.
+    type: range
+    bounds:
+      min: 50
+      max: 99
+    renderers:
+      - type: replace
+        pattern: hpa.yml
+        regex: "\\$AVG_RAM_VALUE"
+        directory: .varxen
+
+  - name: limits_memory
+    description: >
+      Amount of RAM at the pod level.
+    type: range
+    bounds:
+      min: 256
+      max: 2048
+    renderers:
+      - type: append
+        template: "RAM_RESOURCE={VALUE}"
+        file: .varxen/.env
+
+  - name: limits_cpu
+    description: >
+      Amount of CPU at the pod level.
+    type: range
+    bounds:
+      min: 250
+      max: 1000
+    renderers:
+      - type: append
+        template: "CPU_RESOURCE={VALUE}"
+        file: .varxen/.env
+
+  - name: requests_memory
+    description: >
+      Amount of RAM at the request level.
+    type: range
+    bounds:
+      min: 128
+      max: 1024
+    renderers:
+      - type: append
+        template: "RAM_REQUEST={VALUE}"
+        file: .varxen/.env
+
+  - name: requests_cpu
+    description: >
+      Amount of CPU at the request level.
+    type: range
+    bounds:
+      min: 125
+      max: 500
+    renderers:
+      - type: append
+        template: "CPU_REQUEST={VALUE}"
+        file: .varxen/.env
+
+constraints:
+  - min_replicas <= max_replicas
+  - requests_memory <= limits_memory
+  - requests_cpu <= limits_cpu
